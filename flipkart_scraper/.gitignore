@@ -3,7 +3,3 @@ venv/
 
 # Python cache
 __pycache__/
-
-# Data and log files
-data/
-logs/
